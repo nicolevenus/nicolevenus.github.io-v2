@@ -6,5 +6,6 @@ Welcome! I am a PhD candidate in [Economics at USI Lugano](https://idep.usi.ch/)
 
 My research interests include 
 - Labour Economics
-- Gender, Household Economics 
+- Gender
+- Household Economics 
 - Economics of Science.
