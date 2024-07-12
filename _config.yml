@@ -1,12 +1,11 @@
 # Site settings
 title: Nicole Venus
 email: nicole[dot]venus[at]usi[dot]ch
-location: >
-  Coordinates: <br/>
-  Gates-Thomas Laboratory <br/>
-  California Institute of Technology <br/>
-  1200 E California Blvd<br/>
-  Pasadena, CA 91125, MC104-44<br/>
+description: >
+  PhD candidate in Economics<br/>
+  Università della Svizzera italiana (USI)<br/>
+  Via Giuseppe Buffi 13<br/>
+  CH-6900 Lugano TI, Switzerland<br/>
 # baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://nicolevenus.github.io/" # the base hostname & protocol for your site
 twitter_username: #JAlexBranham
