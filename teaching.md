@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Teaching assistant
+title: teaching
 permalink: /teaching/
 ---
 
