@@ -7,7 +7,7 @@ description: > # this means to ignore newlines until "baseurl:"
 url: "https://nicolevenus.github.io/" # the base hostname & protocol for your site
 minima:
   date_format: '%b %-d, %Y'
-  skin: classic
+  skin: dark
 
   # generate social links in footer
   social_links:
