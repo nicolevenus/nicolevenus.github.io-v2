@@ -2,5 +2,4 @@
 layout: default
 ---
 
-Here's how you link to a [webpage in your site](/teaching/), and
-here's a link to an [external site](https://www.google.com)
+I am a PhD candidate in Economics at USI Lugano, working under the supervision of [Patricia Funk](https://sites.google.com/site/patriciafelicitasfunk/patricia-funks-research-webpage) and [Lorenz Küng](https://lorenzkueng.droppages.com/). My research interests include Labour Economics, Gender, Household Economics & Economics of Science.
