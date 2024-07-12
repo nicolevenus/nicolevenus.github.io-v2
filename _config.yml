@@ -1,14 +1,12 @@
 # Site settings
 title: Nicole Venus
 email: nicole[dot]venus[at]usi[dot]ch
-description: # this means to ignore newlines until "baseurl:"
-  PhD candidate in Economics
-  
-  Università della Svizzera italiana (USI)
-  
-  Via Giuseppe Buffi 13
-  
-  CH-6900 Lugano TI, Switzerland
+location: >
+  Coordinates: <br/>
+  Gates-Thomas Laboratory <br/>
+  California Institute of Technology <br/>
+  1200 E California Blvd<br/>
+  Pasadena, CA 91125, MC104-44<br/>
 # baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://nicolevenus.github.io/" # the base hostname & protocol for your site
 twitter_username: #JAlexBranham
