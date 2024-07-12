@@ -5,8 +5,8 @@ description: > # this means to ignore newlines until "baseurl:"
   PhD candidate in Economics
 # baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://nicolevenus.github.io/" # the base hostname & protocol for your site
-twitter_username: #[Follow me on X](https://twitter.com/nemo18383912600)
-github_username:  #Or [Github] (https://github.com/nicolevenus)
+twitter_username: [Follow me on X](https://twitter.com/nemo18383912600)
+github_username:  Or [Github] (https://github.com/nicolevenus)
 permalink: /blog/:year/:month/:title.html
 gems:
   - jekyll-sitemap
