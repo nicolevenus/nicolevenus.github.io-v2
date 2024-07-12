@@ -7,7 +7,6 @@ description: > # this means to ignore newlines until "baseurl:"
 url: "https://nicolevenus.github.io/" # the base hostname & protocol for your site
 theme: minima
 
-twitter_username: nemo18383912600
 github_username:  nicolevenus
 
 permalink: /blog/:year/:month/:title.html
