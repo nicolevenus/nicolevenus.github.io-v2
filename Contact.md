@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Research
-permalink: /research/
+title: Contact
+permalink: /contact/
 ---
 
 **Contact me at**
