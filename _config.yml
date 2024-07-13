@@ -4,8 +4,7 @@ description: > # this means to ignore newlines until "baseurl:"
   PhD candidate in Economics
 # baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://nicolevenus.github.io/" # the base hostname & protocol for your site
-#theme: minima
-theme: jekyll-theme-minimal
+theme: minima
 
 plugins:
   - jekyll-feed
