@@ -8,7 +8,7 @@ My research interests include
 - Labour Economics
 - Gender
 - Household Economics 
-- Economics of Science.
+- Economics of Science
 
 Contact me at nicole[dot]venus[at]usi[dot]ch
 
