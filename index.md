@@ -13,3 +13,7 @@ My research interests include
 Contact me at nicole[dot]venus[at]usi[dot]ch
 
 [Follow me on X](https://twitter.com/nemo18383912600)
+
+Università della Svizzera italiana (USI) <br>
+Via Giuseppe Buffi 13 <br>
+CH-6900 Lugano TI, Switzerland <br>
