@@ -14,4 +14,4 @@ Contact me at nicole[dot]venus[at]usi[dot]ch
 
 [Follow me on X](https://twitter.com/nemo18383912600)
 
-![Book logo]("/assets/NVenus_passphoto.png)
+![image]("/assets/NVenus_passphoto.png)
