@@ -1,3 +1,9 @@
+---
+layout: page
+title: Research
+permalink: /research/
+---
+
 **Contact me at**
 
 Università della Svizzera italiana (USI) <br>
